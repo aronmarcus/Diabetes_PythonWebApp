@@ -3,7 +3,6 @@
 
 ![](https://github.com/aronmarcus/Diabetes_PythonWebApp/blob/main/diabetes-detection-webapp-master/img/App.gif)
 
-
 ## Apresentação ##
 
   <p>	</p>
@@ -14,6 +13,8 @@
   <p>Projeto baseado no desafio do Kaggle para consolidar meus conhecimentos na área de Data Science, Inteligencia Artificial e Machine Learning.</p>
   
 ## A Origem dos Dados ##
+
+![](https://github.com/aronmarcus/Diabetes_PythonWebApp/blob/main/diabetes-detection-webapp-master/Dataset/kaggle.png)
 
   <p>Base de dados de arquivo de texto separado por vírgulas (.csv), tendo como fonte principal o site [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) . Este Dataset é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais (NIDDK).</p> 
   <p>O objetivo do conjunto de dados é prever com diagnóstico se um paciente tem diabetes ou não, com base em certas medidas diagnósticas incluídas no conjunto de dados. Várias restrições foram colocadas na seleção dessas instâncias de um banco de dados maior..</p>
