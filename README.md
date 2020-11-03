@@ -1,7 +1,7 @@
 # WebApp Python para Detecção de Diabetes #
 ### Kaggle (Pima Indians Diabetes Database - Predict the onset of diabetes based on diagnostic measures) ###
 
-![](...)
+![](https://github.com/aronmarcus/Diabetes_PythonWebApp/blob/main/diabetes-detection-webapp-master/img/WebApp.png)
 
 ## Apresentação ##
 
@@ -34,11 +34,18 @@
      * Scikit-Learn
      * Streamlit
   7. Inicialização do WebApp
+     * Para inicializar o App é preciso rodar o Streamlit no Prompt de Comando, basta digitar "cd" e colar o caminho da pasta do app, aperta Enter e depois o comando "streamlit run DiabetesWebApp.py"
+     ![](https://github.com/aronmarcus/Diabetes_PythonWebApp/blob/main/diabetes-detection-webapp-master/img/Streamlit%20run.png)
 
 ## Instalação ##
   
   - [Anaconda](https://www.anaconda.com/products/individual)
   - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/)
+  
+  ### Script de instalação do Streamlit ###
+  <p> Vá no Prompt de Comando e digite "pip install streamlit"</p>
+  
+  ![](https://github.com/aronmarcus/Diabetes_PythonWebApp/blob/main/diabetes-detection-webapp-master/img/Streamlit%20Install.png)
 
 ## Estrutura de Hardware e Software ##
 
