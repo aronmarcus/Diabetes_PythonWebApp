@@ -5,7 +5,7 @@
 
 ## Apresentação ##
 
-  <p>	</p>
+  <p>Aplicação web feito em linguagem Python utilizando o Framework Streamlit para análises preditivas de Diabetes utilizando conceitos de Inteligencia Artificial e Machine Learning.	</p>
   <p>A aplicação analisa as chances de contágio da Diabetes uma vez que os dados são computados e treinados por uma base de dados em ".csv" para testar a precisão das informações obtidas através de inputs do usuário, o algoritmo treinado conclui uma acurácia de aproximadamente 80%.</p>
 
 ## Objetivo ##
@@ -16,7 +16,7 @@
 
 ![](https://github.com/aronmarcus/Diabetes_PythonWebApp/blob/main/diabetes-detection-webapp-master/Dataset/kaggle.png)
 
-  <p>Base de dados de arquivo de texto separado por vírgulas (.csv), tendo como fonte principal o site [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) . Este Dataset é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais (NIDDK).</p> 
+  <p>Base de dados de arquivo de texto separado por vírgulas (.csv), tendo como fonte principal o site [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) . Este Dataset é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais (NIDDK), sendo uma coleta de dados da tribo de Índios Americanos chamada Pima e este projeto é baseado no estudo destes dados.</p> 
   <p>O objetivo do conjunto de dados é prever com diagnóstico se um paciente tem diabetes ou não, com base em certas medidas diagnósticas incluídas no conjunto de dados. Várias restrições foram colocadas na seleção dessas instâncias de um banco de dados maior..</p>
 
 
@@ -75,6 +75,7 @@
   - [Eveything Computer Science](https://everythingcomputerscience.com/)
   - [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
   - [Kaggle](https://www.kaggle.com/)
+  - [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/)
 
 ## Licença ##
   
